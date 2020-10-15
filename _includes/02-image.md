@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Michel photo](https://github.com/NMJD/nmjd.github.io/blob/master/images/michel.jpg)
